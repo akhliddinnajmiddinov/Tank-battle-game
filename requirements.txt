@@ -1,0 +1,7 @@
+Package   Version
+--------- -------
+cffi      1.17.1
+pip       24.0
+pycparser 2.22
+pygame    2.6.1
+pymunk    6.8.1
